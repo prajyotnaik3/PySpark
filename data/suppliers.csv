@@ -1,0 +1,51 @@
+Product ID,Supplier ID,Supplier Name,Contact Person,Phone,Email,Address,City,State,Postal Code,Country
+1,101,Supplier A,John Smith,1234567890,supplierA@example.com,123 Main St,New York,NY,10001,USA
+2,102,Supplier B,Jane Doe,9876543210,supplierB@example.com,456 Elm St,Los Angeles,CA,90001,USA
+3,103,Supplier C,Michael Johnson,5555555555,supplierC@example.com,789 Oak Ave,Chicago,IL,60601,USA
+4,104,Supplier D,Emily Williams,1111111111,supplierD@example.com,321 Pine Rd,Miami,FL,33101,USA
+5,105,Supplier E,David Brown,2222222222,supplierE@example.com,654 Maple Blvd,San Francisco,CA,94101,USA
+6,106,Supplier F,Sarah Jones,3333333333,supplierF@example.com,987 Cedar Ln,Dallas,TX,75201,USA
+7,107,Supplier G,Christopher Lee,4444444444,supplierG@example.com,246 Walnut St,Boston,MA,02101,USA
+8,108,Supplier H,Jessica Clark,5555555555,supplierH@example.com,753 Cherry Ave,Seattle,WA,98101,USA
+9,109,Supplier I,Matthew Hall,6666666666,supplierI@example.com,159 Grapevine Rd,Austin,TX,73301,USA
+10,110,Supplier J,Ashley Lewis,7777777777,supplierJ@example.com,852 Orange Dr,Atlanta,GA,30301,USA
+11,111,Supplier K,Andrew Lopez,8888888888,supplierK@example.com,753 Apple St,Denver,CO,80201,USA
+12,112,Supplier L,Elizabeth Young,9999999999,supplierL@example.com,951 Lemon Way,Houston,TX,77001,USA
+13,113,Supplier M,Joshua Harris,1234567890,supplierM@example.com,357 Lime Ln,Phoenix,AZ,85001,USA
+14,114,Supplier N,Amanda Turner,9876543210,supplierN@example.com,753 Plum Dr,Portland,OR,97201,USA
+15,115,Supplier O,Daniel Walker,5555555555,supplierO@example.com,456 Cherry Blossom Ln,San Diego,CA,92101,USA
+16,116,Supplier P,Samantha Hill,1111111111,supplierP@example.com,852 Oakwood Ave,Detroit,MI,48201,USA
+17,117,Supplier Q,Joseph Scott,2222222222,supplierQ@example.com,753 Cedar Rd,Philadelphia,PA,19101,USA
+18,118,Supplier R,Karen Green,3333333333,supplierR@example.com,357 Pinecone Way,Minneapolis,MN,55401,USA
+19,119,Supplier S,Brandon Adams,4444444444,supplierS@example.com,951 Maple St,Orlando,FL,32801,USA
+20,120,Supplier T,Megan Baker,5555555555,supplierT@example.com,753 Magnolia Dr,San Antonio,TX,78201,USA
+21,121,Supplier U,William Wright,6666666666,supplierU@example.com,357 Oak Ln,Charlotte,NC,28201,USA
+22,122,Supplier V,Natalie Mitchell,7777777777,supplierV@example.com,852 Pineapple Rd,Columbus,OH,43201,USA
+23,123,Supplier W,Jonathan Ross,8888888888,supplierW@example.com,159 Cherrywood Ave,Indianapolis,IN,46201,USA
+24,124,Supplier X,Sophia Perez,9999999999,supplierX@example.com,753 Lemonade Blvd,Memphis,TN,38101,USA
+25,125,Supplier Y,Oliver Roberts,1234567890,supplierY@example.com,456 Applewood Dr,Baltimore,MD,21201,USA
+26,126,Supplier Z,Lauren Cook,9876543210,supplierZ@example.com,753 Orange Ave,Las Vegas,NV,89101,USA
+27,127,Supplier AA,Alexander Morgan,5555555555,supplierAA@example.com,951 Grapevine Rd,Oklahoma City,OK,73101,USA
+28,128,Supplier BB,Alyssa Hughes,1111111111,supplierBB@example.com,357 Walnut St,Louisville,KY,40201,USA
+29,129,Supplier CC,James Bailey,2222222222,supplierCC@example.com,852 Elmwood Ln,Milwaukee,WI,53201,USA
+30,130,Supplier DD,Grace Reed,3333333333,supplierDD@example.com,753 Cedar Ave,Tucson,AZ,85701,USA
+31,131,Supplier EE,Logan Wright,4444444444,supplierEE@example.com,456 Oakwood Dr,Albuquerque,NM,87101,USA
+32,132,Supplier FF,Avery Carter,5555555555,supplierFF@example.com,159 Pine Rd,Fresno,CA,93701,USA
+33,133,Supplier GG,Chloe Hall,6666666666,supplierGG@example.com,753 Maple Ave,Kansas City,MO,64101,USA
+34,134,Supplier HH,David Baker,7777777777,supplierHH@example.com,357 Oak St,Virginia Beach,VA,23450,USA
+35,135,Supplier II,Ella Harris,8888888888,supplierII@example.com,852 Walnut Dr,Long Beach,CA,90801,USA
+36,136,Supplier JJ,Christopher Kelly,9999999999,supplierJJ@example.com,951 Elmwood Ave,Raleigh,NC,27601,USA
+37,137,Supplier KK,Emily Collins,1234567890,supplierKK@example.com,753 Grape Rd,Mesa,AZ,85201,USA
+38,138,Supplier LL,Liam Rodriguez,9876543210,supplierLL@example.com,456 Orange St,Colorado Springs,CO,80901,USA
+39,139,Supplier MM,Sofia Cook,5555555555,supplierMM@example.com,789 Pineapple Ln,Oakland,CA,94601,USA
+40,140,Supplier NN,Matthew Hill,1111111111,supplierNN@example.com,123 Cherry Ave,Honolulu,HI,96801,USA
+41,141,Supplier OO,Avery Campbell,2222222222,supplierOO@example.com,456 Oak Rd,Arlington,TX,76001,USA
+42,142,Supplier PP,Harper Collins,3333333333,supplierPP@example.com,789 Maple St,Wichita,KS,67201,USA
+43,143,Supplier QQ,Sophia Turner,4444444444,supplierQQ@example.com,123 Pinecone Way,Bakersfield,CA,93301,USA
+44,144,Supplier RR,Lucas Martin,5555555555,supplierRR@example.com,456 Cedar Ave,Tampa,FL,33601,USA
+45,145,Supplier SS,Aria Clark,6666666666,supplierSS@example.com,789 Orange Dr,Anaheim,CA,92801,USA
+46,146,Supplier TT,Jack Hall,7777777777,supplierTT@example.com,123 Cherry Blossom Ln,Aurora,CO,80001,USA
+47,147,Supplier UU,Isabella Lopez,8888888888,supplierUU@example.com,456 Walnut St,Santa Ana,CA,92701,USA
+48,148,Supplier VV,Emma White,9999999999,supplierVV@example.com,789 Applewood Dr,St. Louis,MO,63101,USA
+49,149,Supplier WW,Carter Harris,1234567890,supplierWW@example.com,123 Lemonade Blvd,Pittsburgh,PA,15201,USA
+50,150,Supplier XX,Sebastian King,9876543210,supplierXX@example.com,456 Magnolia Dr,Cincinnati,OH,45201,USA

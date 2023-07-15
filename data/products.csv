@@ -1,0 +1,51 @@
+Product ID,Product Name,Brand,Category,Price,Release Date,Color,Storage Capacity,RAM,Display Size (inches)
+1,iPhone 12,Apple,Smartphone,999.00,2020-10-23,Black,256GB,4GB,6.1
+2,Galaxy S21,Samsung,Smartphone,899.99,2021-01-29,Phantom Gray,128GB,8GB,6.2
+3,Pixel 5,Google,Smartphone,699.00,2020-10-15,Just Black,128GB,8GB,6.0
+4,Mi 11,Xiaomi,Smartphone,799.99,2021-02-01,Midnight Gray,256GB,12GB,6.81
+5,OnePlus 9,OnePlus,Smartphone,749.00,2021-03-23,Astral Black,128GB,8GB,6.55
+6,Galaxy Note20 Ultra,Samsung,Smartphone,1199.99,2020-08-21,Mystic Bronze,512GB,12GB,6.9
+7,iPhone SE (2020),Apple,Smartphone,399.00,2020-04-24,Red,64GB,3GB,4.7
+8,Moto G Power (2021),Motorola,Smartphone,249.99,2021-01-14,Flash Gray,64GB,4GB,6.6
+9,LG Velvet,LG,Smartphone,599.99,2020-07-22,Aurora White,128GB,6GB,6.8
+10,Redmi Note 10 Pro,Xiaomi,Smartphone,329.99,2021-03-04,Glacial Blue,128GB,6GB,6.67
+11,Google Pixel 4a,Google,Smartphone,349.00,2020-08-20,Just Black,128GB,6GB,5.81
+12,iPhone 11,Apple,Smartphone,699.00,2019-09-20,White,128GB,4GB,6.1
+13,Galaxy A52,Samsung,Smartphone,499.99,2021-03-17,Awesome Blue,128GB,6GB,6.5
+14,Mi 10T Pro,Xiaomi,Smartphone,499.99,2020-09-30,Cosmic Black,128GB,8GB,6.67
+15,OnePlus 8 Pro,OnePlus,Smartphone,899.00,2020-04-21,Ultramarine Blue,256GB,12GB,6.78
+16,Vivo X60 Pro,Vivo,Smartphone,799.00,2021-03-25,Midnight Black,256GB,12GB,6.56
+17,OPPO Find X2 Pro,OPPO,Smartphone,1199.00,2020-03-06,Orange,512GB,12GB,6.7
+18,iPhone XR,Apple,Smartphone,599.00,2018-10-26,Black,128GB,3GB,6.1
+19,Galaxy Z Fold2,Samsung,Smartphone,1999.99,2020-09-18,Mystic Bronze,256GB,12GB,7.6
+20,Redmi 9,Xiaomi,Smartphone,159.99,2020-06-10,Ocean Green,64GB,4GB,6.53
+21,Google Pixel 3a,Google,Smartphone,399.00,2019-05-07,Purple-ish,64GB,4GB,5.6
+22,Moto G Stylus (2021),Motorola,Smartphone,299.99,2021-01-08,Mystic Indigo,128GB,4GB,6.8
+23,LG Wing,LG,Smartphone,999.99,2020-10-05,Aurora Gray,256GB,8GB,6.8
+24,Redmi Note 9 Pro,Xiaomi,Smartphone,299.99,2020-04-30,Tropical Green,64GB,6GB,6.67
+25,OnePlus Nord,OnePlus,Smartphone,399.00,2020-08-04,Blue Marble,128GB,8GB,6.44
+26,Galaxy S20 FE,Samsung,Smartphone,699.99,2020-10-02,Cloud Navy,128GB,6GB,6.5
+27,OPPO Reno5 Pro,OPPO,Smartphone,749.00,2021-01-22,Starry Black,256GB,8GB,6.55
+28,iPhone 12 Mini,Apple,Smartphone,699.00,2020-10-23,White,128GB,4GB,5.4
+29,Xperia 1 III,Sony,Smartphone,1299.00,2021-06-28,Black,256GB,12GB,6.5
+30,Redmi Note 8 Pro,Xiaomi,Smartphone,249.99,2019-09-26,Mineral Grey,128GB,6GB,6.53
+31,Pixel 4 XL,Google,Smartphone,899.00,2019-10-24,Oh So Orange,64GB,6GB,6.3
+32,Vivo X50 Pro,Vivo,Smartphone,899.00,2020-06-01,Alpha Grey,256GB,8GB,6.56
+33,Galaxy A32,Samsung,Smartphone,279.99,2021-02-26,Awesome Black,64GB,4GB,6.4
+34,Redmi 9T,Xiaomi,Smartphone,199.99,2021-01-08,Nightfall Black,64GB,4GB,6.53
+35,iPhone 13 Pro,Apple,Smartphone,1099.00,2021-09-24,Graphite,256GB,6GB,6.1
+36,Galaxy M31,Samsung,Smartphone,249.99,2020-02-25,Space Black,64GB,6GB,6.4
+37,OPPO A54,OPPO,Smartphone,299.00,2021-04-20,Crystal Black,128GB,4GB,6.51
+38,Xiaomi Mi 11 Ultra,Xiaomi,Smartphone,1199.99,2021-03-02,Ceramic Black,256GB,12GB,6.81
+39,OnePlus 9 Pro,OnePlus,Smartphone,969.00,2021-03-23,Morning Mist,256GB,12GB,6.7
+40,Google Pixel 5a,Google,Smartphone,449.00,2021-08-26,Mostly Black,128GB,6GB,6.34
+41,LG K92 5G,LG,Smartphone,349.99,2020-11-06,Titan Gray,128GB,6GB,6.7
+42,Moto G Power (2020),Motorola,Smartphone,249.99,2020-04-16,Smoke Black,64GB,4GB,6.4
+43,Sony Xperia 5 II,Sony,Smartphone,949.99,2020-10-12,Blue,256GB,8GB,6.1
+44,Galaxy A51,Samsung,Smartphone,399.99,2019-12-16,Prism Crush Blue,128GB,4GB,6.5
+45,Redmi Note 10S,Xiaomi,Smartphone,279.99,2021-03-04,Ocean Blue,128GB,6GB,6.43
+46,iPhone SE (2020),Apple,Smartphone,449.00,2020-04-24,Black,128GB,3GB,4.7
+47,Vivo Y20s,Galaxy A32,Samsung,Smartphone,249.99,2021-02-26,Awesome Black,64GB,4GB,6.4
+48,Redmi 9T,Xiaomi,Smartphone,199.99,2021-01-08,Nightfall Black,64GB,4GB,6.53
+49,iPhone 13 Pro,Apple,Smartphone,1099.00,2021-09-24,Graphite,256GB,6GB,6.1
+50,Galaxy M31,Samsung,Smartphone,249.99,2020-02-25,Space Black,64GB,6GB,6.4

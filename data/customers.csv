@@ -1,0 +1,101 @@
+Customer ID,First Name,Last Name,Email,Phone,Address,City,State,Postal Code,Country
+1,John,Doe,johndoe@example.com,1234567890,123 Main St,New York,NY,10001,USA
+2,Jane,Smith,janesmith@example.com,9876543210,456 Elm St,Los Angeles,CA,90001,USA
+3,Michael,Johnson,michaeljohnson@example.com,5555555555,789 Oak Ave,Chicago,IL,60601,USA
+4,Emily,Williams,emilywilliams@example.com,1111111111,321 Pine Rd,Miami,FL,33101,USA
+5,David,Brown,davidbrown@example.com,2222222222,654 Maple Blvd,San Francisco,CA,94101,USA
+6,Sarah,Jones,sarahjones@example.com,3333333333,987 Cedar Ln,Dallas,TX,75201,USA
+7,Christopher,Lee,christopherlee@example.com,4444444444,246 Walnut St,Boston,MA,02101,USA
+8,Jessica,Clark,jessicaclark@example.com,5555555555,753 Cherry Ave,Seattle,WA,98101,USA
+9,Matthew,Hall,matthewhall@example.com,6666666666,159 Grapevine Rd,Austin,TX,73301,USA
+10,Ashley,Lewis,ashleylewis@example.com,7777777777,852 Orange Dr,Atlanta,GA,30301,USA
+11,Andrew,Lopez,andrewlopez@example.com,8888888888,753 Apple St,Denver,CO,80201,USA
+12,Elizabeth,Young,elizabethyoung@example.com,9999999999,951 Lemon Way,Houston,TX,77001,USA
+13,Joshua,Harris,joshuaharris@example.com,1234567890,357 Lime Ln,Phoenix,AZ,85001,USA
+14,Amanda,Turner,amandaturner@example.com,9876543210,753 Plum Dr,Portland,OR,97201,USA
+15,Daniel,Walker,danielwalker@example.com,5555555555,456 Cherry Blossom Ln,San Diego,CA,92101,USA
+16,Samantha,Hill,samanthahill@example.com,1111111111,852 Oakwood Ave,Detroit,MI,48201,USA
+17,Joseph,Scott,josephscott@example.com,2222222222,753 Cedar Rd,Philadelphia,PA,19101,USA
+18,Karen,Green,karengreen@example.com,3333333333,357 Pinecone Way,Minneapolis,MN,55401,USA
+19,Brandon,Adams,brandonadams@example.com,4444444444,951 Maple St,Orlando,FL,32801,USA
+20,Megan,Baker,meganbaker@example.com,5555555555,753 Magnolia Dr,San Antonio,TX,78201,USA
+21,William,Wright,williamwright@example.com,6666666666,357 Oak Ln,Charlotte,NC,28201,USA
+22,Natalie,Mitchell,nataliemitchell@example.com,7777777777,852 Pineapple Rd,Columbus,OH,43201,USA
+23,Jonathan,Ross,jonathanross@example.com,8888888888,159 Cherrywood Ave,Indianapolis,IN,46201,USA
+24,Sophia,Perez,sophiaperez@example.com,9999999999,753 Lemonade Blvd,Memphis,TN,38101,USA
+25,Oliver,Roberts,oliverroberts@example.com,1234567890,456 Applewood Dr,Baltimore,MD,21201,USA
+26,Lauren,Cook,laurencook@example.com,9876543210,753 Orange Ave,Las Vegas,NV,89101,USA
+27,Alexander,Morgan,alexandermorgan@example.com,5555555555,951 Grapevine Rd,Oklahoma City,OK,73101,USA
+28,Alyssa,Hughes,alyssahughes@example.com,1111111111,357 Walnut St,Louisville,KY,40201,USA
+29,James,Bailey,jamesbailey@example.com,2222222222,852 Elmwood Ln,Milwaukee,WI,53201,USA
+30,Grace,Reed,gracereed@example.com,3333333333,753 Cedar Ave,Tucson,AZ,85701,USA
+31,Logan,Wright,loganwright@example.com,4444444444,456 Oakwood Dr,Albuquerque,NM,87101,USA
+32,Avery,Carter,averycarter@example.com,5555555555,159 Pine Rd,Fresno,CA,93701,USA
+33,Chloe,Hall,chloehall@example.com,6666666666,753 Maple Ave,Kansas City,MO,64101,USA
+34,David,Baker,davidbaker@example.com,7777777777,357 Oak St,Virginia Beach,VA,23450,USA
+35,Ella,Harris,ellaharris@example.com,8888888888,852 Walnut Dr,Long Beach,CA,90801,USA
+36,Christopher,Kelly,christopherkelly@example.com,9999999999,951 Elmwood Ave,Raleigh,NC,27601,USA
+37,Emily,Collins,emilycollins@example.com,1234567890,753 Grape Rd,Mesa,AZ,85201,USA
+38,Liam,Rodriguez,liamrodriguez@example.com,9876543210,456 Orange St,Colorado Springs,CO,80901,USA
+39,Sofia,Cook,sofiacook@example.com,5555555555,789 Pineapple Ln,Oakland,CA,94601,USA
+40,Matthew,Hill,matthewhill@example.com,1111111111,123 Cherry Ave,Honolulu,HI,96801,USA
+41,Avery,Campbell,averycampbell@example.com,2222222222,456 Oak Rd,Arlington,TX,76001,USA
+42,Harper,Collins,harpercollins@example.com,3333333333,789 Maple St,Wichita,KS,67201,USA
+43,Sophia,Turner,sophiaturner@example.com,4444444444,123 Pinecone Way,Bakersfield,CA,93301,USA
+44,Lucas,Martin,lucasmartin@example.com,5555555555,456 Cedar Ave,Tampa,FL,33601,USA
+45,Aria,Clark,ariaclark@example.com,6666666666,789 Orange Dr,Anaheim,CA,92801,USA
+46,Jack,Hall,jackhall@example.com,7777777777,123 Cherry Blossom Ln,Aurora,CO,80001,USA
+47,Isabella,Lopez,isabellalopez@example.com,8888888888,456 Walnut St,Santa Ana,CA,92701,USA
+48,Emma,White,emmawhite@example.com,9999999999,789 Applewood Dr,St. Louis,MO,63101,USA
+49,Carter,Harris,carterharris@example.com,1234567890,123 Lemonade Blvd,Pittsburgh,PA,15201,USA
+50,Sebastian,King,sebastianking@example.com,9876543210,456 Magnolia Dr,Cincinnati,OH,45201,USA
+51,Grace,Brown,gracebrown@example.com,5555555555,789 Grapevine Rd,Baton Rouge,LA,70801,USA
+52,Lincoln,Young,lincolnyoung@example.com,1111111111,123 Maple Ave,New Orleans,LA,70112,USA
+53,Abigail,Taylor,abigailtaylor@example.com,2222222222,456 Pine Rd,Hartford,CT,06101,USA
+54,Jackson,Walker,jacksonwalker@example.com,3333333333,789 Oakwood Dr,Salt Lake City,UT,84101,USA
+55,Scarlett,King,scarlettking@example.com,4444444444,123 Applewood Ave,Alexandria,VA,22301,USA
+56,Dylan,Cooper,dylancooper@example.com,5555555555,456 Pine St,Cleveland,OH,44101,USA
+57,Victoria,Parker,victoriaparker@example.com,6666666666,789 Walnut Dr,Providence,RI,02901,USA
+58,Josephine,Richardson,josephinerichardson@example.com,7777777777,123 Elm Ln,Newark,NJ,07101,USA
+59,Levi,Watson,leviwatson@example.com,8888888888,456 Cedar Ave,Des Moines,IA,50301,USA
+60,Hannah,Campbell,hannahcampbell@example.com,9999999999,789 Oak St,Charleston,SC,29401,USA
+61,Leo,Gray,leogray@example.com,1234567890,123 Pineapple Rd,Anchorage,AK,99501,USA
+62,Stella,Hughes,stellahughes@example.com,9876543210,456 Grapevine Ln,Little Rock,AR,72201,USA
+63,Nolan,Ramirez,nolanramirez@example.com,5555555555,789 Apple Dr,Knoxville,TN,37901,USA
+64,Addison,Rodriguez,addisonrodriguez@example.com,1111111111,123 Orange Ave,Fort Worth,TX,76101,USA
+65,Penelope,Hill,penelopehill@example.com,2222222222,456 Grape Rd,Rochester,NY,14601,USA
+66,Isaac,Young,isaacyoung@example.com,3333333333,789 Cedar Ln,Plano,TX,75001,USA
+67,Delilah,Ross,delilahross@example.com,4444444444,123 Maple St,Lincoln,NE,68501,USA
+68,Landon,Long,landonlong@example.com,5555555555,456 Oak Dr,Madison,WI,53701,USA
+69,Naomi,Wright,naomiwright@example.com,6666666666,789 Walnut Ave,Birmingham,AL,35201,USA
+70,Elijah,Gonzalez,elijahgonzalez@example.com,7777777777,123 Pine Ln,Scottsdale,AZ,85201,USA
+71,Lily,Lewis,lilylewis@example.com,8888888888,456 Applewood Dr,Reno,NV,89501,USA
+72,Adrian,Green,adriangreen@example.com,9999999999,789 Elmwood Ave,Dover,DE,19901,USA
+73,Ariana,King,arianaking@example.com,1234567890,123 Cherry Blossom Ln,Springfield,MO,65801,USA
+74,Xavier,Perez,xavierperez@example.com,9876543210,456 Walnut St,Boise,ID,83701,USA
+75,Hailey,Cook,haileycook@example.com,5555555555,789 Maple Dr,Fargo,ND,58102,USA
+76,Josiah,James,josiahjames@example.com,1111111111,123 Pine St,Wilmington,DE,19801,USA
+77,Julia,Collins,juliacollins@example.com,2222222222,456 Oakwood Ln,Manchester,NH,03101,USA
+78,Evan,Hall,evanhall@example.com,3333333333,789 Cedar Ave,Kent,WA,98001,USA
+79,Aubrey,Harris,aubreyharris@example.com,4444444444,123 Apple Dr,Honolulu,HI,96801,USA
+80,Alexis,Stewart,alexisstewart@example.com,5555555555,456 Grapevine Rd,Peoria,IL,61601,USA
+81,Parker,Rivera,parkerrivera@example.com,6666666666,789 Walnut Ln,Rockford,IL,61101,USA
+82,Lucy,Bell,lucybell@example.com,7777777777,123 Elmwood Dr,Evansville,IN,47708,USA
+83,Charles,Hill,charleshill@example.com,8888888888,456 Oak Ln,Visalia,CA,93277,USA
+84,Annabelle,Wood,annabellewood@example.com,9999999999,789 Cherrywood Ave,Manchester,NH,03101,USA
+85,Henry,Cox,hencox@example.com,1234567890,123 Pine Rd,Killeen,TX,76540,USA
+86,Leah,Reyes,leahreyes@example.com,9876543210,456 Maple Dr,El Paso,TX,79901,USA
+87,Amelia,Cruz,ameliacruz@example.com,5555555555,789 Apple St,Richmond,VA,23218,USA
+88,Daniel,Murphy,danielmurphy@example.com,1111111111,123 Orange Ave,Fort Wayne,IN,46802,USA
+89,Bella,Turner,bellaturner@example.com,2222222222,456 Walnut Dr,Tulsa,OK,74103,USA
+90,Grayson,Bell,graysonbell@example.com,3333333333,789 Cedar Ln,Corpus Christi,TX,78401,USA
+91,Savannah,Gonzalez,savannahgonzalez@example.com,4444444444,123 Maple Rd,Laredo,TX,78040,USA
+92,Lincoln,Martin,lincolnmartin@example.com,5555555555,456 Oak Ave,Chula Vista,CA,91909,USA
+93,Nora,Campbell,noracampbell@example.com,6666666666,789 Elmwood Dr,Grand Rapids,MI,49501,USA
+94,Eli,Brown,elibrown@example.com,7777777777,123 Pine St,Huntsville,AL,35801,USA
+95,Scarlett,Carter,scarlettcarter@example.com,8888888888,456 Applewood Dr,Mobile,AL,36601,USA
+96,Maya,Watson,mayawatson@example.com,9999999999,789 Walnut Ave,Chattanooga,TN,37401,USA
+97,Ezekiel,Hughes,ezekielhughes@example.com,1234567890,123 Cedar Rd,Yakima,WA,98901,USA
+98,Genesis,Kelly,genesiskelly@example.com,9876543210,456 Cherry Ave,Bridgeport,CT,06601,USA
+99,Josephine,Gray,josephinegray@example.com,5555555555,789 Grapevine Ln,Kalamazoo,MI,49001,USA
+100,Jonathan,Rodriguez,jonathanrodriguez@example.com,1111111111,123 Apple St,Concord,NH,03301,USA
